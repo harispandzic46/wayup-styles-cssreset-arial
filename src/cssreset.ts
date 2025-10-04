@@ -1,14 +1,12 @@
-import { backgroundGray, brandPrimary2, gray1, grayBlack, white } from '@campusjob/wayup.styles.colors';
-import { halfSpacer, spacer } from '@campusjob/wayup.styles.layout';
-import {
-  fontFamilyProximaNova,
-  fontFileProximaNova,
-  fontFileProximaNova500,
-  fontFileProximaNova800,
-  fontFileProximaNovaBold,
-  fontSizeBase,
-} from '@harispandzic46/wayup-styles-fonts-arial';
-import { WAYUP_STATIC_PREFIX_URL } from '@campusjob/wayup.constants.urls';
+// Default values for WayUp styles
+const backgroundGray = '#f8f9fa';
+const brandPrimary2 = () => '#007bff';
+const gray1 = '#6c757d';
+const grayBlack = '#212529';
+const white = '#ffffff';
+const halfSpacer = '0.5rem';
+const spacer = '1rem';
+const fontSizeBase = '16px';
 
 const fontFaces = `
 /* Arial font family - no external font files needed */
