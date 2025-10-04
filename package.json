@@ -1,6 +1,6 @@
 {
   "name": "@harispandzic46/wayup-styles-cssreset-arial",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "CSS Reset styles for WayUp applications with Arial fonts instead of Proxima Nova",
   "main": "index.ts",
   "files": [
