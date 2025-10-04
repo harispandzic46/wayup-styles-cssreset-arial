@@ -1,6 +1,6 @@
 {
   "name": "@harispandzic46/wayup-styles-cssreset-arial",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "CSS Reset styles for WayUp applications with Arial fonts instead of Proxima Nova",
   "main": "index.ts",
   "files": [
@@ -23,8 +23,5 @@
   "bugs": {
     "url": "https://github.com/harispandzic46/wayup-styles-cssreset-arial/issues"
   },
-  "homepage": "https://github.com/harispandzic46/wayup-styles-cssreset-arial#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/harispandzic46/wayup-styles-cssreset-arial#readme"
 }
